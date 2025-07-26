@@ -128,7 +128,7 @@ async def initialize_sample_data():
             "description": "Aromatic basmati rice cooked with tender chicken pieces and traditional spices",
             "price": 12.99,
             "category": "biryani",
-            "image_url": "https://images.unsplash.com/photo-1587907988134-94b4d1c3e40e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzV8MHwxfHNlYXJjaHwxfHxmb29kJTIwdmFyaWV0eXxlbnwwfHx8b3JhbmdlfDE3NTM1MjQwNjF8MA&ixlib=rb-4.1.0&q=85",
+            "image_url": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njd8MHwxfHNlYXJjaHwxfHxiaXJ5YW5pfGVufDB8fHx8MTc1MzUyNDQ1Mnww&ixlib=rb-4.1.0&q=85",
             "in_stock": True,
             "created_at": datetime.utcnow()
         },
@@ -138,7 +138,7 @@ async def initialize_sample_data():
             "description": "Premium mutton biryani with fragrant spices and long grain basmati rice",
             "price": 15.99,
             "category": "biryani",
-            "image_url": "https://images.unsplash.com/photo-1605723937077-66a33776015c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzV8MHwxfHNlYXJjaHw0fHxmb29kJTIwdmFyaWV0eXxlbnwwfHx8b3JhbmdlfDE3NTM1MjQwNjZ8MA&ixlib=rb-4.1.0&q=85",
+            "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njd8MHwxfHNlYXJjaHwzfHxiaXJ5YW5pfGVufDB8fHx8MTc1MzUyNDQ1Mnww&ixlib=rb-4.1.0&q=85",
             "in_stock": True,
             "created_at": datetime.utcnow()
         },
